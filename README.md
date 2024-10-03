@@ -26,7 +26,18 @@ module.
 • It will be cost effective, easy to install and provide timely alerts to enhance security in
 both residential and commercial settings.
 
+**Required things**
+• Arduino micro controller
+• Ultrasonic sensor
+• GSM module
+• Resistors
+• LED
+• Voltage regulator step down
+• AC adapter
+• Matrix keypad
+
 <img width="578" alt="Screenshot 2024-10-03 at 21 23 14" src="https://github.com/user-attachments/assets/c3f9a32a-88cc-4faa-a088-0723f9f8ea35">
 
+<img width="633" alt="Screenshot 2024-10-03 at 21 31 44" src="https://github.com/user-attachments/assets/71c8be15-9771-458e-9cbc-939c87f34b7b">
 
 
