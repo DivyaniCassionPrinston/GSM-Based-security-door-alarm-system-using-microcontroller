@@ -26,6 +26,8 @@ module.
 • It will be cost effective, easy to install and provide timely alerts to enhance security in
 both residential and commercial settings.
 
+![1727815604440](https://github.com/user-attachments/assets/6b5f2910-ceed-4f04-b251-f1f47d208efc)
+
 **REQUIRED THINGS**<br>
 • Arduino micro controller<br>
 • Ultrasonic sensor<br>
