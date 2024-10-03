@@ -1,4 +1,4 @@
-<img width="577" alt="image" src="https://github.com/user-attachments/assets/d105427c-34b8-4312-88aa-519a1ce55440"># GSM-Based-security-door-alarm-system-using-microcontroller
+# GSM-Based-security-door-alarm-system-using-microcontroller
 
 **INTRODUCTION**
 
