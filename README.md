@@ -18,8 +18,10 @@ and commercial spaces.
 **Solutions**
 
 • Our proposed solution is to GSM based security alarm system using Arduino.
+
 • This system will detect intrusions using sensors connected t the Arduino which will
 then send real time alerts via SMS or call to predefined phone numbers using the GSM
 module.
+
 • It will be cost effective, easy to install and provide timely alerts to enhance security in
 both residential and commercial settings.
