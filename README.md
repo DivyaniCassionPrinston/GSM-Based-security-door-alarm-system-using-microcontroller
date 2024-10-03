@@ -27,7 +27,7 @@ module.
 both residential and commercial settings.
 
 **Required things**
-• Arduino micro controller
+• Arduino micro controller<br>
 • Ultrasonic sensor
 • GSM module
 • Resistors
