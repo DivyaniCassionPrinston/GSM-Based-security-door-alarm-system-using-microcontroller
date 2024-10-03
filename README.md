@@ -2,11 +2,7 @@
 
 **INTRODUCTION**
 
-We have designed a gsm based security alarm system using Arduino. By this project offers an
-affordable and reliable security solution that is easy to set up. The system can send real time
-alerts, such as calls or notifications, if someone tries to break in. By using Arduino and GSM
-technology, our system enhances safety in homes and commercials, addressing the cost and
-accessibility issues of traditional security systems.
+We have designed a gsm based security alarm system using Arduino. By this project offers an affordable and reliable security solution that is easy to set up. The system can send real time alerts, such as calls or notifications, if someone tries to break in. By using Arduino and GSM technology, our system enhances safety in homes and commercials, addressing the cost and accessibility issues of traditional security systems.
 
 **Problem statement**
 
