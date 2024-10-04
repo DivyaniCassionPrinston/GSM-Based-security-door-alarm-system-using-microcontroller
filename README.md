@@ -37,6 +37,8 @@ both residential and commercial settings.
 • AC adapter<br>
 • Matrix keypad<br>
 
+Connect those above components as shown below,
+
 <img width="578" alt="Screenshot 2024-10-03 at 21 23 14" src="https://github.com/user-attachments/assets/c3f9a32a-88cc-4faa-a088-0723f9f8ea35">
 
 <img width="633" alt="Screenshot 2024-10-03 at 21 31 44" src="https://github.com/user-attachments/assets/71c8be15-9771-458e-9cbc-939c87f34b7b">
