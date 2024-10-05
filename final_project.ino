@@ -103,14 +103,12 @@ void loop() {
 
 void makeCall() {
   Serial.println("Calling...");
-  mySerial.println("ATD+94761598703;"); // Replace with the desired phone number
+  mySerial.println("ATD+94xxxxxxxx;"); // Replace with the desired phone number
   delay(20000); // Duration of the call (20 seconds)
   mySerial.println("ATH"); // Hang up
   Serial.println("Call ended");
   digitalWrite(led, LOW);
 }
-
-  
 
 
 void clearPassword() {
