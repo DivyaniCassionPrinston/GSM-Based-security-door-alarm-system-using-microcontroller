@@ -11,7 +11,7 @@ SoftwareSerial mySerial(3, 2);
 // LED pin
 int led = 4;
 
-char password[] = "3333"; // Change the password here
+char password[] = "xxxx"; // Change the password here
 char enteredPassword[5] = "";  // Buffer to store entered password
 int passwordLength = 4;   // Length of the password
 
